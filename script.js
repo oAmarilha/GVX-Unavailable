@@ -1,5 +1,5 @@
  // Defina a data alvo para o countdown (ano, mês, dia, hora, minuto, segundo)
- var targetDate = new Date('2023-12-31T23:59:59');
+ var targetDate = new Date('2023-11-26T23:59:59');
 
  // Função para calcular e exibir o countdown
  function updateCountdown() {
