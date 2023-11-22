@@ -1,0 +1,31 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f8f9fe;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+}
+
+.logo {
+    width: 100px; /* Adjust the logo size as needed */
+    height: auto;
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #3d5170;
+    font-size: 2em;
+}
+
+p {
+    color: #8798ad;
+    font-size: 1.2em;
+}
+
+/* Add more styles or customize as needed */
